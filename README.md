@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine Learning Applied to Cybersecurity Intrusion Detection
 Machine Learning projects 
 
 About
@@ -7,8 +7,7 @@ This repository contains my projects and exercises in machine learning, covering
 
 Projects
 
-- [Project 1: Description]
-- [Project 2: Description]
+
 
 Skills
 
